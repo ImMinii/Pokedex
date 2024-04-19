@@ -1,0 +1,20 @@
+.pokedex {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* This will create four columns */
+    gap: 10px;
+    padding: 10px;
+}
+
+.pokemon {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.pagination{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 20px;
+}

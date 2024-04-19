@@ -1,0 +1,15 @@
+.pokemon {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.pokemon-number {
+    font-size: 12px;
+}
+
+.pokemon-name {
+    font-size: 16px;
+    font-weight: bold;
+}
